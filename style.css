@@ -6,4 +6,6 @@ button{
 }
 div{
   background-color:#FFFFFF ;
+  width: 300px;
+  border-radius:50px
 }
